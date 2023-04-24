@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'blackcat';
-	src:url('http://https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.eot');
-	src:url('http://https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.eot#iefix') format('embedded-opentype'),
-	url('http://https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.svg#blackcat') format('svg'),
-	url('http://https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.woff') format('woff'),
-	url('http://https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.ttf') format('truetype');
+	src:url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.eot');
+	src:url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.eot#iefix') format('embedded-opentype'),
+	url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.svg#blackcat') format('svg'),
+	url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.woff') format('woff'),
+	url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/matthiasmullie/minify/tests/css/sample/convert_relative_path/webfont/blackcat.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
