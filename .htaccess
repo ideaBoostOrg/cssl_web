@@ -1,3 +1,3 @@
 <IfModule mod_headers.c>
-    Header set Access-Control-Allow-Origin "https://ideaboostorg.github.io"
+    Header set Access-Control-Allow-Origin "https://cssl.lk"
 </IfModule>
