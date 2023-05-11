@@ -1013,7 +1013,7 @@
 }
 
 .wpforms-builder-provider-connections-default::before {
-    background: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/default-arrow.svg") no-repeat 0 0;
+    background: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/default-arrow.svg") no-repeat 0 0;
     background-size: 97px 81px;
     content: "";
     height: 83px;

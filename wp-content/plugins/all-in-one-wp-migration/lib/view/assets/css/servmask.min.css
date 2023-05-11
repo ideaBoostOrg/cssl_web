@@ -547,7 +547,7 @@ input[type=radio].ai1wm-flat-radio-button:checked+label i {
     position: relative;
     -webkit-animation: ai1wm-rotate 1.5s infinite linear;
     animation: ai1wm-rotate 1.5s infinite linear;
-    background: url(https://cssl.lk/cssl_web/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/img/logo-128x128.png);
+    background: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/img/logo-128x128.png);
     background-repeat: no-repeat;
     background-position: center center
 }
@@ -1106,7 +1106,7 @@ input[type=radio].ai1wm-flat-radio-button:checked+label i {
 .ai1wm-modal-container section h1 .ai1wm-loader {
     width: 32px;
     height: 32px;
-    background: url(https://cssl.lk/cssl_web/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/img/logo-32x32.png)
+    background: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/img/logo-32x32.png)
 }
 
 .ai1wm-modal-container section h1 .ai1wm-icon-notification {

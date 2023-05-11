@@ -24,16 +24,16 @@
 
 @font-face {
     font-family: star;
-    src: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.eot");
-    src: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.eot#iefix") format("embedded-opentype"), url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"), url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"), url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
+    src: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.eot");
+    src: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.eot#iefix") format("embedded-opentype"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: WooCommerce;
-    src: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot");
-    src: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot#iefix") format("embedded-opentype"), url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"), url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"), url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
+    src: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot");
+    src: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot#iefix") format("embedded-opentype"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -505,7 +505,7 @@ p.demo_store[data-position=bottom] {
     margin-top: -.5em;
     content: '';
     animation: spin 1s ease-in-out infinite;
-    background: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/loader.svg") center center;
+    background: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/loader.svg") center center;
     background-size: cover;
     line-height: 1;
     text-align: center;
@@ -524,7 +524,7 @@ p.demo_store[data-position=bottom] {
     margin-top: -.5em;
     content: '';
     animation: spin 1s ease-in-out infinite;
-    background: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/loader.svg") center center;
+    background: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/loader.svg") center center;
     background-size: cover;
     line-height: 1;
     text-align: center;
@@ -3189,7 +3189,7 @@ p.demo_store[data-position=bottom] {
 
 button.pswp__button {
     box-shadow: none !important;
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png") !important
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png") !important
 }
 
 button.pswp__button,
@@ -3859,7 +3859,7 @@ button.pswp__button--zoom:hover {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.visa,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.visa,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.visa {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg")
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard,
@@ -3871,7 +3871,7 @@ button.pswp__button--zoom:hover {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.mastercard,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.mastercard,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.mastercard {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg")
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.laser,
@@ -3883,7 +3883,7 @@ button.pswp__button--zoom:hover {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.laser,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.laser,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.laser {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg")
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub,
@@ -3895,7 +3895,7 @@ button.pswp__button--zoom:hover {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.dinersclub,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.dinersclub,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.dinersclub {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg")
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.maestro,
@@ -3907,7 +3907,7 @@ button.pswp__button--zoom:hover {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.maestro,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.maestro,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.maestro {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg")
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.jcb,
@@ -3919,7 +3919,7 @@ button.pswp__button--zoom:hover {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.jcb,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.jcb,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.jcb {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg")
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.amex,
@@ -3931,7 +3931,7 @@ button.pswp__button--zoom:hover {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.amex,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.amex,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.amex {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg")
 }
 
 #add_payment_method #payment div.payment_box .wc-credit-card-form-card-cvc.discover,
@@ -3943,7 +3943,7 @@ button.pswp__button--zoom:hover {
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-cvc.discover,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-expiry.discover,
 .woocommerce-checkout #payment div.payment_box .wc-credit-card-form-card-number.discover {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg")
 }
 
 #add_payment_method #payment div.payment_box span.help,

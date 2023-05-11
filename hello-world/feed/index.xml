@@ -9,7 +9,7 @@
 	<title>
 	Comments on: Hello world!	</title>
 	<atom:link href="http://localhost/wordpress/hello-world/feed/?simply_static_page=76378" rel="self" type="application/rss+xml" />
-	<link>https://cssl.lk/cssl_web/hello-world/</link>
+	<link>https://ideaboostorg.github.io/cssl_web/hello-world/</link>
 	<description>The Computer Society Of SriLanka</description>
 	<lastBuildDate>Sun, 19 Mar 2023 09:57:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>https://cssl.lk/cssl_web/hello-world/#comment-1</link>
+		<link>https://ideaboostorg.github.io/cssl_web/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 19 Mar 2023 09:57:29 +0000</pubDate>
-		<guid isPermaLink="false">https://cssl.lk/cssl_web/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://ideaboostorg.github.io/cssl_web/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.

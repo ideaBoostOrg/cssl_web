@@ -745,13 +745,13 @@ input {
   /* -o-transition: all 0.4s ease; */
   /* -moz-transition: all 0.4s ease; */
   /* transition: all 0.4s ease; */
-  /*  background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/down-arrow.png);
+  /*  background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/down-arrow.png);
     width: 53px;
     height: 40px;*/
 }
 
 .select2-container--default .select2-selection--single .select2-selection__arrow b {
-  background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/down-arrow.png);
+  background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/down-arrow.png);
   width: 53px;
   height: 40px;
 }
@@ -869,7 +869,7 @@ input {
 }
 
 .list-group-item .dir_png {
-  background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/folder.png);
+  background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/folder.png);
   width: 34px;
   height: 24px;
   display: inline-block;
@@ -1373,7 +1373,7 @@ a.badge-dark:focus {
 }
 
 .gear {
-  background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png) !important;
+  background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png) !important;
   width: 30px;
   height: 30px;
   background-size: 25px 25px !important;
@@ -1386,7 +1386,7 @@ a.badge-dark:focus {
 }
 
 .gear:hover {
-  background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings-hover.png) !important;
+  background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings-hover.png) !important;
   transition: all 0.3s;
 }
 
@@ -1414,7 +1414,7 @@ a.badge-dark:focus {
 }
 
 .delete_zip_file {
-  background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/trash.png);
+  background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/export-wp-page-to-static-html/admin/images/trash.png);
   background-position: center center;
   background-size: 20px;
   width: 20px;

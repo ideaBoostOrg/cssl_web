@@ -69,7 +69,7 @@
 }
 
 .choices[data-type*="select-one"] .choices__button {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/cross-inverse.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/cross-inverse.svg");
     padding: 0;
     background-size: 8px;
     position: absolute;
@@ -169,7 +169,7 @@
     margin-left: 5px;
     padding: 0;
     background-color: transparent;
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/cross.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/cross.svg");
     background-size: 12px;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1853,7 +1853,7 @@ body.wpforms-admin-page #wpfooter .wpforms-footer-promotion-social a {
 
 .wpforms-admin-empty-state-container .waving-hand-emoji {
     display: inline-block;
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/empty-states/waving-hand-emoji.png);
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/empty-states/waving-hand-emoji.png);
     background-repeat: no-repeat;
     background-size: 24px 24px;
     background-position: 0 0;
@@ -2199,7 +2199,7 @@ body.wpforms-admin-page #wpfooter .wpforms-footer-promotion-social a {
 }
 
 .wpforms-loading-spinner {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/spinner.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/spinner.svg");
     background-repeat: no-repeat;
     background-size: 15px 15px;
     background-position: center;
@@ -2216,7 +2216,7 @@ body.wpforms-admin-page #wpfooter .wpforms-footer-promotion-social a {
 }
 
 .wpforms-loading-spinner.wpforms-loading-white {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/spinner-white.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/spinner-white.svg")
 }
 
 .wpforms-loading-spinner.wpforms-loading-md {
@@ -2366,7 +2366,7 @@ body.wpforms-admin-page #wpfooter .wpforms-footer-promotion-social a {
     display: block;
     width: 12px;
     height: 16px;
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/file-code.svg")
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/file-code.svg")
 }
 
 #wpforms-overview .wp-list-table .locations .locations-list {
@@ -2718,7 +2718,7 @@ body.wpforms-manage-tags-modal .wpforms-manage-tags-items input {
 }
 
 body.wpforms-manage-tags-modal .wpforms-manage-tags-items input+label {
-    background: #f8f8f8 url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/trash.svg") no-repeat right 10px center;
+    background: #f8f8f8 url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/trash.svg") no-repeat right 10px center;
     background-size: 12px 14px;
     border: 1px solid #f8f8f8;
     border-radius: 3px;
@@ -2741,7 +2741,7 @@ body.wpforms-manage-tags-modal .wpforms-manage-tags-items input+label span {
 }
 
 body.wpforms-manage-tags-modal .wpforms-manage-tags-items input:checked+label {
-    background: #fff url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/trash-red.svg") no-repeat right 10px center;
+    background: #fff url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/trash-red.svg") no-repeat right 10px center;
     background-size: 12px 14px;
     border-color: #d63638
 }
@@ -4435,19 +4435,19 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
 
 #wpforms-admin-about .wpforms-admin-about-section-table table p.features-full {
     padding-left: 30px;
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/about/icon-full.svg)
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/about/icon-full.svg)
 }
 
 #wpforms-admin-about .wpforms-admin-about-section-table table p.features-none {
     padding-left: 30px;
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/about/icon-none.svg)
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/about/icon-none.svg)
 }
 
 #wpforms-admin-about .wpforms-admin-about-section-table table p.features-partial {
     padding-left: 30px;
     background-position: -3px 0;
     background-size: 23px auto;
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/about/icon-partial.svg)
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/about/icon-partial.svg)
 }
 
 #wpforms-admin-about .wpforms-admin-about-section-table .wpforms-admin-about-section-hero-main {
@@ -4708,7 +4708,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
     left: 0;
     border: 5px solid #ffffff;
     background-color: rgba(0, 0, 0, 0.15);
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50px;
@@ -4731,7 +4731,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
     margin: 16px 0;
     padding: 0 0 0 24px;
     font-size: 15px;
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/smtp/arrow-right.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/smtp/arrow-right.svg");
     background-position: left 3px;
     background-repeat: no-repeat;
     background-size: 14px;
@@ -4924,7 +4924,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
     left: 0;
     border: 5px solid #ffffff;
     background-color: rgba(0, 0, 0, 0.15);
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50px;
@@ -4947,7 +4947,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
     margin: 16px 0;
     padding: 0 0 0 24px;
     font-size: 15px;
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/analytics/arrow-right.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/analytics/arrow-right.svg");
     background-position: left center;
     background-repeat: no-repeat;
     background-size: 14px;
@@ -5168,7 +5168,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
 }
 
 .wpforms-admin-settings .wpforms-setting-row.wpforms-setting-row-license .wpforms-setting-license-wrapper input:not([value=""]).wpforms-setting-license-is-valid+i::after {
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/check-circle.svg)
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/check-circle.svg)
 }
 
 .wpforms-admin-settings .wpforms-setting-row.wpforms-setting-row-license .wpforms-setting-license-wrapper input:not([value=""]).wpforms-setting-license-is-invalid {
@@ -5177,7 +5177,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
 }
 
 .wpforms-admin-settings .wpforms-setting-row.wpforms-setting-row-license .wpforms-setting-license-wrapper input:not([value=""]).wpforms-setting-license-is-invalid+i::after {
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/exclamation-circle.svg)
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/exclamation-circle.svg)
 }
 
 .wpforms-admin-settings .wpforms-setting-row.wpforms-setting-row-license .wpforms-setting-license-wrapper.wpforms-setting-license-block-ui {
@@ -5270,11 +5270,11 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-email-template .wpforms-setting-field .option-default:before {
-    background: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-email-html.png) center center
+    background: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-email-html.png) center center
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-email-template .wpforms-setting-field .option-none:before {
-    background: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-email-plaintext.png) center center
+    background: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-email-plaintext.png) center center
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-captcha-provider .wpforms-setting-field {
@@ -5317,15 +5317,15 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-captcha-provider .wpforms-setting-field .option-hcaptcha:before {
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-hcaptcha.svg)
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-hcaptcha.svg)
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-captcha-provider .wpforms-setting-field .option-recaptcha:before {
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-recaptcha.svg)
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-recaptcha.svg)
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-captcha-provider .wpforms-setting-field .option-turnstile:before {
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-cloudflare.svg);
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-cloudflare.svg);
     background-size: 106px 80px
 }
 
@@ -5335,7 +5335,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-captcha-provider .wpforms-setting-field .option-none:before {
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-none.svg)
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/settings-captcha-none.svg)
 }
 
 .wpforms-admin-settings .wpforms-setting-row#wpforms-setting-row-captcha-provider .wpforms-setting-field .desc {
@@ -6336,7 +6336,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
     left: 0;
     border: 5px solid #ffffff;
     background-color: rgba(68, 68, 68, 0.15);
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50px;
@@ -6381,7 +6381,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
     line-height: 14px;
     margin: 0 0 22px 0;
     padding: 0 0 0 30px;
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/check-solid.svg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/check-solid.svg");
     background-position: left center;
     background-repeat: no-repeat;
     background-size: 16px 12px
@@ -6563,7 +6563,7 @@ body.rtl #wpforms-entries-list .wp-list-table div[data-field-type="phone"] {
     bottom: 0;
     opacity: 0;
     background-color: rgba(0, 0, 0, 0.15);
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg);
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 50px;

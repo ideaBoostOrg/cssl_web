@@ -8,7 +8,7 @@
 
 .wpforms-admin-empty-state-container .waving-hand-emoji {
   display: inline-block;
-  background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/empty-states/waving-hand-emoji.png);
+  background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/empty-states/waving-hand-emoji.png);
   background-repeat: no-repeat;
   background-size: 24px 24px;
   background-position: 0 0;
@@ -227,8 +227,8 @@
 
 @font-face {
   font-family: 'Icon WPForms';
-  src: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot");
-  src: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot#iefix") format("embedded-opentype"), url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff2") format("woff2"), url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff") format("woff"), url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.ttf") format("truetype"), url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.svg") format("svg");
+  src: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot");
+  src: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot#iefix") format("embedded-opentype"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff2") format("woff2"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff") format("woff"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.ttf") format("truetype"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.svg") format("svg");
 }
 
 #elementor-editor-wrapper .icon-wpforms,
@@ -354,7 +354,7 @@
 
 .et-db #et-boc .et-l .et-fb-modules-list ul>li.wpforms_selector::before {
   content: '';
-  background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/divi/wpforms-icon.svg");
+  background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/divi/wpforms-icon.svg");
   height: 16px;
   font-variant: normal;
   background-position: center center;

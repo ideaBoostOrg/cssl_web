@@ -35,7 +35,7 @@
 }
 
 .astra-sites-welcome .astra-notice-container .notice-welcome-container {
-    background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/astra-sites/inc/assets/images/starter-template-3-banner-image-background.jpg");
+    background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/assets/images/starter-template-3-banner-image-background.jpg");
     justify-content: left;
     align-items: center;
     overflow: hidden;
@@ -155,7 +155,7 @@
 }
 
 .astra-sites-welcome .notice-dismiss:before {
-    background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/astra-sites/inc/assets/images/cross.svg);
+    background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/assets/images/cross.svg);
     content: '';
     position: relative;
     background-size: 10px;
