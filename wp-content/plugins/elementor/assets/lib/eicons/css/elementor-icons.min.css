@@ -1,8 +1,8 @@
 /*! elementor-icons - v5.18.0 - 18-12-2022 */
 @font-face {
     font-family: eicons;
-    src: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_18_0);
-    src: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_18_0#iefix) format("embedded-opentype"), url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_18_0) format("woff2"), url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_18_0) format("woff"), url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_18_0) format("truetype"), url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_18_0#eicon) format("svg");
+    src: url(../fonts/eicons.eot?5_18_0);
+    src: url(../fonts/eicons.eot?5_18_0#iefix) format("embedded-opentype"), url(../fonts/eicons.woff2?5_18_0) format("woff2"), url(../fonts/eicons.woff?5_18_0) format("woff"), url(../fonts/eicons.ttf?5_18_0) format("truetype"), url(../fonts/eicons.svg?5_18_0#eicon) format("svg");
     font-weight: 400;
     font-style: normal
 }
