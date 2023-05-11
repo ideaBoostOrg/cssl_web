@@ -3,28 +3,32 @@
  * http://example.org/min/f=min/quick-test.css
  */
 
-@import     url( https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wp-optimize/vendor/mrclay/minify/more.css);
+@import url(https://cssl.lk/cssl_web/wp-content/plugins/wp-optimize/vendor/mrclay/minify/more.css);
 
-    body, td, th {
-        font-family: Verdana , "Bitstream Vera Sans" , Arial Narrow, sans-serif ;
+body,
+td,
+th {
+    font-family: Verdana, "Bitstream Vera Sans", Arial Narrow, sans-serif;
 
-	font-size  : 12px;
+    font-size: 12px;
 }
 
 .nav {
     margin-left: 20%;
 }
+
 #main-nav {
     background-color: red;
     border: 1px solid #00ff77;
 }
 
-div#content
-h1 + p {
+div#content h1+p {
     padding-top: 0;
     margin-top: 0;
 }
 
 @media all and (min-width: 640px) {
-	#media-queries-1 { background-color: #0f0; }
+    #media-queries-1 {
+        background-color: #0f0;
+    }
 }

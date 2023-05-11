@@ -177,7 +177,7 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
 }
 
 body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconfirm-box .jconfirm-content .wpforms-settings-lite-connect-modal-content .wpforms-features section aside {
-  width: calc( 100% - 44px);
+  width: calc(100% - 44px);
 }
 
 body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconfirm-box .jconfirm-content .wpforms-settings-lite-connect-modal-content .wpforms-features section aside h4 {
@@ -240,6 +240,7 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
     transform: scale(0.5);
     opacity: 0;
   }
+
   100% {
     transform: scale(1);
     opacity: 1;
@@ -250,6 +251,7 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
   0% {
     opacity: 0;
   }
+
   100% {
     opacity: .6;
   }
@@ -265,7 +267,8 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
   display: none;
 }
 
-.wpforms-toggle-control.wpforms-setting-lite-connect-auto-save-toggle .wpforms-toggle-control-label, .wpforms-toggle-control.wpforms-setting-lite-connect-auto-save-toggle .wpforms-toggle-control-icon {
+.wpforms-toggle-control.wpforms-setting-lite-connect-auto-save-toggle .wpforms-toggle-control-label,
+.wpforms-toggle-control.wpforms-setting-lite-connect-auto-save-toggle .wpforms-toggle-control-icon {
   pointer-events: none;
 }
 
@@ -322,11 +325,11 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
   height: 17px;
 }
 
-#wpforms-builder-lite-connect-top-bar .wpforms-toggle-control input:not(:checked) + .wpforms-toggle-control-icon {
+#wpforms-builder-lite-connect-top-bar .wpforms-toggle-control input:not(:checked)+.wpforms-toggle-control-icon {
   background-color: #d63638;
 }
 
-#wpforms-builder-lite-connect-top-bar .wpforms-toggle-control:hover input:not(:checked) + .wpforms-toggle-control-icon {
+#wpforms-builder-lite-connect-top-bar .wpforms-toggle-control:hover input:not(:checked)+.wpforms-toggle-control-icon {
   background-color: #b32d2e;
 }
 
@@ -439,7 +442,7 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
   padding-bottom: 55px;
 }
 
-.wpforms-admin-settings-access .screenshots > * {
+.wpforms-admin-settings-access .screenshots>* {
   vertical-align: middle;
 }
 
@@ -470,7 +473,7 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
   left: 0;
   border: 5px solid #ffffff;
   background-color: rgba(68, 68, 68, 0.15);
-  background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg");
+  background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/zoom.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 50px;
@@ -515,7 +518,7 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
   line-height: 14px;
   margin: 0 0 22px 0;
   padding: 0 0 0 30px;
-  background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/check-solid.svg");
+  background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/check-solid.svg");
   background-position: left center;
   background-repeat: no-repeat;
   background-size: 16px 12px;
@@ -529,12 +532,15 @@ body.wpforms-setting-lite-connect-modal .jconfirm .jconfirm-box-container .jconf
   #wpforms-settings-access .screenshots .cont {
     margin-bottom: 40px;
   }
+
   #wpforms-settings-access .screenshots .cont:last-child {
     margin-bottom: 0;
   }
+
   #wpforms-settings-access .caps ul {
     margin-bottom: 20px;
   }
+
   #wpforms-settings-access .caps ul:last-child {
     margin-bottom: 0;
   }

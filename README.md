@@ -1,3 +1,3 @@
 # cssl_web
 
-https://ideaboostorg.github.io/cssl_web/
+https://cssl.lk/cssl_web/

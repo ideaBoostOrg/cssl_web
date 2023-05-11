@@ -68,7 +68,8 @@
   font-weight: 600;
 }
 
-.wpforms-admin-popup-content select, .wpforms-admin-popup-content input[type=text] {
+.wpforms-admin-popup-content select,
+.wpforms-admin-popup-content input[type=text] {
   border: 1px solid #d6d6d6;
   border-radius: 4px;
   color: #777777;
@@ -80,7 +81,8 @@
   width: 320px;
 }
 
-.wpforms-admin-popup-content select:focus, .wpforms-admin-popup-content input[type=text]:focus {
+.wpforms-admin-popup-content select:focus,
+.wpforms-admin-popup-content input[type=text]:focus {
   border-color: #036aab;
 }
 
@@ -108,7 +110,8 @@
   text-decoration-line: underline;
 }
 
-.wpforms-admin-popup-content a.wpforms-admin-popup-toggle:hover, .wpforms-admin-popup-content a.wpforms-admin-popup-toggle:focus {
+.wpforms-admin-popup-content a.wpforms-admin-popup-toggle:hover,
+.wpforms-admin-popup-content a.wpforms-admin-popup-toggle:focus {
   box-shadow: none;
   color: #444444;
 }
@@ -145,8 +148,8 @@
   font-size: 16px;
   font-weight: 600;
   line-height: 19px;
-  max-width: calc( 50% - 15px);
-  width: calc( 50% - 15px);
+  max-width: calc(50% - 15px);
+  width: calc(50% - 15px);
   overflow: hidden;
   padding: 10px 20px;
   text-align: center;
@@ -410,7 +413,7 @@
 }
 
 #wpforms-builder-help-content #wpforms-builder-help-search.wpforms-empty input {
-  background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/search.svg");
+  background-image: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/search.svg");
 }
 
 #wpforms-builder-help-content .wpforms-builder-help-error {
@@ -420,11 +423,13 @@
   text-align: center;
 }
 
-#wpforms-builder-help-result .wpforms-builder-help-docs, #wpforms-builder-help-no-result .wpforms-builder-help-docs {
+#wpforms-builder-help-result .wpforms-builder-help-docs,
+#wpforms-builder-help-no-result .wpforms-builder-help-docs {
   margin: 0 0 36px 0;
 }
 
-#wpforms-builder-help-result span, #wpforms-builder-help-no-result span {
+#wpforms-builder-help-result span,
+#wpforms-builder-help-no-result span {
   color: #666666;
   font-size: 15px;
 }
@@ -515,6 +520,7 @@
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -526,6 +532,7 @@
     -webkit-transform: rotate(0deg);
     transform: rotate(0deg);
   }
+
   100% {
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
@@ -588,8 +595,8 @@
   vertical-align: middle;
 }
 
-.wpforms-dyk .wpforms-dyk-buttons > a,
-.wpforms-dyk .wpforms-dyk-buttons > button {
+.wpforms-dyk .wpforms-dyk-buttons>a,
+.wpforms-dyk .wpforms-dyk-buttons>button {
   margin-left: 15px;
   vertical-align: middle;
 }

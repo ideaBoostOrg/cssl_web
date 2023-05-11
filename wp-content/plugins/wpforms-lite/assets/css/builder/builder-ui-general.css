@@ -36,7 +36,7 @@
   font-size: 18px;
   font-weight: 400;
   margin: 29px 450px 0 114px;
-  max-width: calc( 100% - 500px);
+  max-width: calc(100% - 500px);
   text-align: left;
 }
 
@@ -133,8 +133,8 @@
   flex-direction: column;
   background: #2d2d2d;
   color: #ffffff;
-  min-height: calc( 100vh - 76px - var( --wpforms-admin-bar-height ));
-  max-height: calc( 100vh - 76px - var( --wpforms-admin-bar-height ));
+  min-height: calc(100vh - 76px - var(--wpforms-admin-bar-height));
+  max-height: calc(100vh - 76px - var(--wpforms-admin-bar-height));
   left: 0;
   margin: 76px -100px 0 0;
   overflow-x: hidden;
@@ -161,11 +161,13 @@
   width: 100%;
 }
 
-.wpforms-panels-toggle button.active, .wpforms-panels-toggle button.active:hover {
+.wpforms-panels-toggle button.active,
+.wpforms-panels-toggle button.active:hover {
   background-color: #e27730;
 }
 
-.wpforms-panels-toggle button.active .fa, .wpforms-panels-toggle button.active:hover .fa {
+.wpforms-panels-toggle button.active .fa,
+.wpforms-panels-toggle button.active:hover .fa {
   color: #ffffff;
 }
 
@@ -209,7 +211,7 @@
   padding: 30px;
   position: fixed;
   right: 0;
-  top: calc( 76px + var( --wpforms-admin-bar-height ));
+  top: calc(76px + var(--wpforms-admin-bar-height));
   z-index: 10;
   transition-property: top, left;
   transition-duration: 0.25s, 0.15s;
@@ -226,7 +228,7 @@
 
 .wpforms-panel-sidebar-content .wpforms-panel-sidebar-toggle-icon {
   align-items: center;
-  background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/toggle-tab-bg.svg);
+  background-image: url(https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/toggle-tab-bg.svg);
   background-size: 100% 58px;
   background-repeat: no-repeat;
   border-radius: 5px 5px 0 0;
@@ -237,7 +239,7 @@
   left: 495px;
   cursor: pointer;
   position: absolute;
-  top: calc( 50% + 24px);
+  top: calc(50% + 24px);
   width: 15px;
   z-index: 15;
   transition-property: left, width;
@@ -271,14 +273,14 @@
   left: 95px;
   overflow: auto;
   position: fixed;
-  top: calc( 76px + var( --wpforms-admin-bar-height ));
+  top: calc(76px + var(--wpforms-admin-bar-height));
   width: 400px;
 }
 
 #wpforms-panel-fields .wpforms-panel-sidebar-content.wpforms-panel-sidebar-closed .wpforms-panel-sidebar-toggle-vertical-line {
   position: absolute;
   border-right: 3px solid #ebf3fb;
-  top: calc( 76px + var( --wpforms-admin-bar-height ));
+  top: calc(76px + var(--wpforms-admin-bar-height));
   height: 100%;
   left: 95px;
   z-index: 0;
@@ -327,7 +329,9 @@
   max-width: 450px;
 }
 
-.wpforms-panel-field.wide, .wpforms-panel-field.wpforms-panel-field-tinymce, .wpforms-panel-field.wpforms-panel-field-warning {
+.wpforms-panel-field.wide,
+.wpforms-panel-field.wpforms-panel-field-tinymce,
+.wpforms-panel-field.wpforms-panel-field-warning {
   max-width: 800px;
 }
 
@@ -448,7 +452,7 @@
   color: #bbbbbb;
   position: absolute;
   right: 0;
-  top: calc( 50% - 7px);
+  top: calc(50% - 7px);
   transition-property: transform;
   transition-duration: 0.15s;
   transition-timing-function: ease-in;
@@ -464,7 +468,7 @@
 }
 
 .wpforms-panel-content-section-general .wpforms-panel-fields-group.unfoldable .wpforms-panel-fields-group-title i {
-  top: calc( 50% - 2px);
+  top: calc(50% - 2px);
 }
 
 .wpforms-panel-content-section-general .wpforms-panel-fields-group.unfoldable.opened .wpforms-panel-fields-group-title {
@@ -473,7 +477,7 @@
 }
 
 .wpforms-panel-content-section-general .wpforms-panel-fields-group.unfoldable.opened .wpforms-panel-fields-group-title i {
-  top: calc( 50% - 7px);
+  top: calc(50% - 7px);
 }
 
 .wpforms-panel-sidebar-section {
@@ -511,7 +515,8 @@
   display: none;
 }
 
-.wpforms-panel-sidebar-section.active, .wpforms-panel-sidebar-section.active:hover {
+.wpforms-panel-sidebar-section.active,
+.wpforms-panel-sidebar-section.active:hover {
   background-color: #036aab;
   color: #ffffff;
 }
@@ -587,12 +592,12 @@
 }
 
 .wpforms-panel-content-section .illustration.illustration-marketing {
-  background: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/illustration-marketing.svg") no-repeat center center;
+  background: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/illustration-marketing.svg") no-repeat center center;
   background-size: 313px 260px;
 }
 
 .wpforms-panel-content-section .illustration.illustration-payments {
-  background: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/illustration-payments.svg") no-repeat center center;
+  background: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/illustration-payments.svg") no-repeat center center;
   background-size: 269px 255px;
 }
 
@@ -626,7 +631,8 @@
   -webkit-appearance: none;
 }
 
-.wpforms-panel-content-section-title button:hover, .wpforms-panel-content-section-title button:focus,
+.wpforms-panel-content-section-title button:hover,
+.wpforms-panel-content-section-title button:focus,
 .wpforms-panel-content-section-title .button:hover,
 .wpforms-panel-content-section-title .button:focus {
   background-color: #215d8f;
@@ -639,7 +645,7 @@
   margin: 0 10px 0 0;
 }
 
-.wpforms-panel-content-section-title > a > i:before {
+.wpforms-panel-content-section-title>a>i:before {
   cursor: pointer;
 }
 
@@ -686,14 +692,14 @@
 }
 
 .wpforms-panel-content-section-default {
-  background: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/default-arrow.svg") no-repeat 0 0;
+  background: url("https://cssl.lk/cssl_web/wp-content/plugins/wpforms-lite/assets/images/builder/default-arrow.svg") no-repeat 0 0;
   background-size: 96px 81px;
 }
 
 .wpforms-panel-content-section-default,
 .wpforms-panel-content-section-info {
   align-content: center;
-  min-height: calc( 100vh - var( --wpforms-admin-bar-height ) - 195px);
+  min-height: calc(100vh - var(--wpforms-admin-bar-height) - 195px);
   padding: 50px 0;
   text-align: center;
   display: flex;
@@ -866,7 +872,7 @@
 }
 
 .wpforms-field-map-table table td.field {
-  width: calc( 50% - 80px);
+  width: calc(50% - 80px);
 }
 
 .wpforms-field-map-table table td.actions {
