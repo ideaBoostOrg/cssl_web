@@ -1,0 +1,18 @@
+name: Enable CORS
+
+on:
+  push:
+    branches:
+      -gh-pages
+
+jobs:
+  enable-cors:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Enable CORS
+        run: |
+          echo "CORS_ORIGIN: https://cssl.lk" >> $GITHUB_ENV
+          echo "CORS_ORIGIN: https://ideaboostorg.github.io" >> $GITHUB_ENV
