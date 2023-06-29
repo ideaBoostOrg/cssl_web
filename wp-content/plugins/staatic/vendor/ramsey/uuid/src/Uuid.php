@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Ramsey\Uuid\DeprecatedUuidMethodsTrait&quot; not found in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\vendor\ramsey\uuid\src\Uuid.php</b> on line <b>28</b><br>

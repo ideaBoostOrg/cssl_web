@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\WordPress\Module\Admin\Page\FlashesMessages&quot; not found in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\src\Module\Admin\Page\Diagnostics\DiagnosticsTestRequestPage.php</b> on line <b>13</b><br>

@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\AsyncAws\Core\Credentials\DateFromResult&quot; not found in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\vendor\async-aws\core\src\Credentials\WebIdentityProvider.php</b> on line <b>13</b><br>
