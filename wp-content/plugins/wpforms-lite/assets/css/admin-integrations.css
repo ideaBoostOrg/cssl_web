@@ -44,8 +44,7 @@
   font-weight: bold;
 }
 
-.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn,
-.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:active {
+.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn, .wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:active {
   border: none;
   border-radius: 3px;
   font-family: inherit;
@@ -59,13 +58,11 @@
   text-decoration: none;
 }
 
-.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:hover,
-.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:active:hover {
+.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:hover, .wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:active:hover {
   text-decoration: none;
 }
 
-.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:focus,
-.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:active:focus {
+.wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:focus, .wpforms-admin-empty-state-container.wpforms-admin-no-forms .wpforms-btn:active:focus {
   outline: none;
 }
 
@@ -231,14 +228,12 @@
   src: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.eot#iefix") format("embedded-opentype"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff2") format("woff2"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.woff") format("woff"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.ttf") format("truetype"), url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/elementor/font/icon-wpforms.svg") format("svg");
 }
 
-#elementor-editor-wrapper .icon-wpforms,
-.elementor-edit-area .icon-wpforms {
+#elementor-editor-wrapper .icon-wpforms, .elementor-edit-area .icon-wpforms {
   display: inline-block;
   width: 28px;
 }
 
-#elementor-editor-wrapper .icon-wpforms:before,
-.elementor-edit-area .icon-wpforms:before {
+#elementor-editor-wrapper .icon-wpforms:before, .elementor-edit-area .icon-wpforms:before {
   content: '\e800';
   font-family: "Icon WPForms";
   font-style: normal;
@@ -246,8 +241,7 @@
   speak: never;
 }
 
-#elementor-editor-wrapper .elementor-widget-empty-icon.icon-wpforms,
-.elementor-edit-area .elementor-widget-empty-icon.icon-wpforms {
+#elementor-editor-wrapper .elementor-widget-empty-icon.icon-wpforms, .elementor-edit-area .elementor-widget-empty-icon.icon-wpforms {
   width: 22px;
   line-height: 22px;
   padding: 0;
@@ -255,14 +249,12 @@
   text-align: center;
 }
 
-#elementor-editor-wrapper .elementor-navigator__item .icon-wpforms,
-.elementor-edit-area .elementor-navigator__item .icon-wpforms {
+#elementor-editor-wrapper .elementor-navigator__item .icon-wpforms, .elementor-edit-area .elementor-navigator__item .icon-wpforms {
   width: 11px;
   height: 11px;
 }
 
-#elementor-editor-wrapper .elementor-control.elementor-control-edit_form,
-.elementor-edit-area .elementor-control.elementor-control-edit_form {
+#elementor-editor-wrapper .elementor-control.elementor-control-edit_form, .elementor-edit-area .elementor-control.elementor-control-edit_form {
   padding: 0 20px 10px 20px;
   font-style: italic;
   font-weight: normal;
@@ -271,48 +263,40 @@
   color: #A4AFB7;
 }
 
-#elementor-editor-wrapper .elementor-control.elementor-control-edit_form a,
-.elementor-edit-area .elementor-control.elementor-control-edit_form a {
+#elementor-editor-wrapper .elementor-control.elementor-control-edit_form a, .elementor-edit-area .elementor-control.elementor-control-edit_form a {
   cursor: pointer;
 }
 
-#elementor-editor-wrapper .elementor-control.elementor-control-test_form_notice a,
-.elementor-edit-area .elementor-control.elementor-control-test_form_notice a {
+#elementor-editor-wrapper .elementor-control.elementor-control-test_form_notice a, .elementor-edit-area .elementor-control.elementor-control-test_form_notice a {
   color: #6d7882;
   border-bottom-color: #6d7882;
 }
 
-#elementor-editor-wrapper .elementor-control.elementor-control-test_form_notice a:hover,
-.elementor-edit-area .elementor-control.elementor-control-test_form_notice a:hover {
+#elementor-editor-wrapper .elementor-control.elementor-control-test_form_notice a:hover, .elementor-edit-area .elementor-control.elementor-control-test_form_notice a:hover {
   color: #d30c5c;
   border-bottom-color: #d30c5c;
 }
 
-#elementor-editor-wrapper .elementor-control.elementor-control-add_form_btn .elementor-button,
-.elementor-edit-area .elementor-control.elementor-control-add_form_btn .elementor-button {
+#elementor-editor-wrapper .elementor-control.elementor-control-add_form_btn .elementor-button, .elementor-edit-area .elementor-control.elementor-control-add_form_btn .elementor-button {
   padding: 7px 16px;
 }
 
-#elementor-editor-wrapper .elementor-control.elementor-control-add_form_btn .elementor-button b,
-.elementor-edit-area .elementor-control.elementor-control-add_form_btn .elementor-button b {
+#elementor-editor-wrapper .elementor-control.elementor-control-add_form_btn .elementor-button b, .elementor-edit-area .elementor-control.elementor-control-add_form_btn .elementor-button b {
   margin: 0 10px 0 0;
   font-size: 13px;
   font-weight: 400;
   line-height: 12px;
 }
 
-#elementor-editor-wrapper .elementor-control.elementor-control-add_form_btn.elementor-label-inline>.elementor-control-content>.elementor-control-field>.elementor-control-input-wrapper,
-.elementor-edit-area .elementor-control.elementor-control-add_form_btn.elementor-label-inline>.elementor-control-content>.elementor-control-field>.elementor-control-input-wrapper {
+#elementor-editor-wrapper .elementor-control.elementor-control-add_form_btn.elementor-label-inline > .elementor-control-content > .elementor-control-field > .elementor-control-input-wrapper, .elementor-edit-area .elementor-control.elementor-control-add_form_btn.elementor-label-inline > .elementor-control-content > .elementor-control-field > .elementor-control-input-wrapper {
   margin-right: auto;
 }
 
-#elementor-editor-wrapper .wpforms-icon-choices li,
-.elementor-edit-area .wpforms-icon-choices li {
+#elementor-editor-wrapper .wpforms-icon-choices li, .elementor-edit-area .wpforms-icon-choices li {
   cursor: pointer;
 }
 
-#elementor-editor-wrapper .wpforms-icon-choices li label,
-.elementor-edit-area .wpforms-icon-choices li label {
+#elementor-editor-wrapper .wpforms-icon-choices li label, .elementor-edit-area .wpforms-icon-choices li label {
   pointer-events: none;
 }
 
@@ -352,7 +336,7 @@
   opacity: .7;
 }
 
-.et-db #et-boc .et-l .et-fb-modules-list ul>li.wpforms_selector::before {
+.et-db #et-boc .et-l .et-fb-modules-list ul > li.wpforms_selector::before {
   content: '';
   background-image: url("https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/integrations/divi/wpforms-icon.svg");
   height: 16px;

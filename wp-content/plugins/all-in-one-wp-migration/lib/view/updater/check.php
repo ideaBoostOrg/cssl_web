@@ -1,1 +1,1 @@
-Kangaroos cannot jump here
+<a href="https://ideaboostorg.github.io/cssl_web/wp-content/plugins/all-in-one-wp-migration/lib/view/updater/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in C:\xampp\htdocs\cssl\wp-content\plugins\all-in-one-wp-migration\lib\view\updater\check.php:27_Stack trace:_#0 {main}_  thrown in <b>C:\xampp\htdocs\cssl\wp-content\plugins\all-in-one-wp-migration\lib\view\updater\check.php</b> on line <b>27</b><br />"></a>

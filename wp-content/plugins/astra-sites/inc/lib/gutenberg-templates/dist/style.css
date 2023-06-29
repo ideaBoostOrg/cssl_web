@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'ast-block-templates';
-  src: url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/dist/fonts/ast-block-templates.eot?p3u0q1');
-  src: url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/dist/fonts/ast-block-templates.eot?p3u0q1#iefix') format('embedded-opentype'),
+  src:  url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/dist/fonts/ast-block-templates.eot?p3u0q1');
+  src:  url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/dist/fonts/ast-block-templates.eot?p3u0q1#iefix') format('embedded-opentype'),
     url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/dist/fonts/ast-block-templates.ttf?p3u0q1') format('truetype'),
     url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/dist/fonts/ast-block-templates.woff?p3u0q1') format('woff'),
     url('https://ideaboostorg.github.io/cssl_web/wp-content/plugins/astra-sites/inc/lib/gutenberg-templates/dist/fonts/ast-block-templates.svg?p3u0q1#ast-block-templates') format('svg');
@@ -10,8 +10,7 @@
   font-display: block;
 }
 
-[class^="ast-block-templates-icon-"],
-[class*=" ast-block-templates-icon-"] {
+[class^="ast-block-templates-icon-"], [class*=" ast-block-templates-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'ast-block-templates' !important;
   speak: never;

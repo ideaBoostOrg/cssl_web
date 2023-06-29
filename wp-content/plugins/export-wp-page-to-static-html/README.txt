@@ -2,7 +2,7 @@
 Contributors: recorp
 Tags: HTML, wp to html, static website generator, export, page to html, static, css, wp page, page, wp, save as html
 Requires at least: 4.1
-Tested up to: 6.1
+Tested up to: 6.2
 Requires PHP: 5.4
 Stable tag: 2.0.4
 License: GPL-3.0-or-later
@@ -79,6 +79,16 @@ Or you can contact us on our site [https://myrecorp.com](https://myrecorp.com)
 
 
 == Changelog ==
+
+= 2.1.7 - 28 June 2023 =
+* Added review notice with "having problem" button.
+* Added "Successfully exported" toast notification.
+
+= 2.1.6 - 28 May 2023 =
+* Fixed main site address still appearing issue in everywhere.
+
+= 2.1.5 - 21 May 2023 =
+* Fixed pro version direct installing issue.
 
 = 2.1.4 - 23 December 2022 =
 * Fixed a minor issue.

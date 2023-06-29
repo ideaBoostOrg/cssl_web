@@ -116,6 +116,10 @@ function generateHtmlExportLog(r, total_url_exported, total_urls_log) {
     rcExportPagesToHtmlLogsCompleted();
 
     $('.creatingZipFileLogs').show();
+
+    $('.export-html-review-notice').slideDown(400);
+    $.toastr.success('Successfully exported!', {position: 'top-center'});
+
   } else if (r.creating_html_process == 'failed') {
     rc_export_pages_failed();
     $('.htmlExportLogs .error').show();

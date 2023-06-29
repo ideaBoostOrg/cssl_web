@@ -83,8 +83,7 @@
   background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/challenge/chevron-circle-down-regular.svg);
 }
 
-.wpforms-challenge .wpforms-challenge-list-block .list-block-button.challenge-skip,
-.wpforms-challenge .wpforms-challenge-list-block .list-block-button.challenge-cancel {
+.wpforms-challenge .wpforms-challenge-list-block .list-block-button.challenge-skip, .wpforms-challenge .wpforms-challenge-list-block .list-block-button.challenge-cancel {
   right: 10px;
   background-image: url(https://ideaboostorg.github.io/cssl_web/wp-content/plugins/wpforms-lite/assets/images/challenge/times-circle-regular.svg);
   color: #b6b6b6;
@@ -227,14 +226,12 @@
   0% {
     background-position-x: 27px;
   }
-
   100% {
     background-position-x: 0;
   }
 }
 
-.wpforms-challenge.paused .wpforms-challenge-bar div,
-.wpforms-challenge.wpforms-challenge-completed .wpforms-challenge-bar div {
+.wpforms-challenge.paused .wpforms-challenge-bar div, .wpforms-challenge.wpforms-challenge-completed .wpforms-challenge-bar div {
   animation-play-state: paused;
 }
 
@@ -333,7 +330,6 @@
   0% {
     box-shadow: 0 0 0 0 rgba(223, 119, 57, 0.6);
   }
-
   100% {
     box-shadow: 0 0 0 10px rgba(223, 119, 57, 0);
   }
@@ -553,8 +549,7 @@ span.wpforms-challenge-dot.wpforms-challenge-dot-completed:before {
   font-weight: bold;
 }
 
-.wpforms-challenge-popup-content select,
-.wpforms-challenge-popup-content input[type=text] {
+.wpforms-challenge-popup-content select, .wpforms-challenge-popup-content input[type=text] {
   border-radius: 4px;
   border: 1px solid #d6d6d6;
   padding: 8px 12px;
@@ -565,8 +560,7 @@ span.wpforms-challenge-dot.wpforms-challenge-dot-completed:before {
   vertical-align: middle;
 }
 
-.wpforms-challenge-popup-content select:focus,
-.wpforms-challenge-popup-content input[type=text]:focus {
+.wpforms-challenge-popup-content select:focus, .wpforms-challenge-popup-content input[type=text]:focus {
   color: #777777;
 }
 
@@ -793,14 +787,12 @@ span.wpforms-challenge-dot.wpforms-challenge-dot-completed:before {
 }
 
 @media all and (max-width: 1023px) {
-
-  .wpforms-challenge-tooltip.tooltipster-sidetip,
-  .wpforms-challenge {
+  .wpforms-challenge-tooltip.tooltipster-sidetip, .wpforms-challenge {
     display: none !important;
   }
 }
 
-.block-editor-page .edit-post-layout .components-notice-list>div {
+.block-editor-page .edit-post-layout .components-notice-list > div {
   padding-left: 50px;
 }
 
@@ -837,7 +829,7 @@ span.wpforms-challenge-dot.wpforms-challenge-dot-completed:before {
   background-repeat: no-repeat;
 }
 
-.block-editor-page.is-fullscreen-mode .edit-post-layout .components-notice-list>div {
+.block-editor-page.is-fullscreen-mode .edit-post-layout .components-notice-list > div {
   padding-left: 125px;
 }
 
@@ -864,7 +856,6 @@ span.wpforms-challenge-dot.wpforms-challenge-dot-completed:before {
 }
 
 @media (max-width: 750px) {
-
   .wpforms-challenge,
   .wpforms-challenge *,
   .wpforms-challenge-dot,

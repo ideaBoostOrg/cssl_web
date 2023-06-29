@@ -1,0 +1,2 @@
+<br>
+<b>Warning</b>:  Cannot declare class Attribute, because the name is already in use in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\vendor\symfony\polyfill-php80\Resources\stubs\Attribute.php</b> on line <b>22</b><br>

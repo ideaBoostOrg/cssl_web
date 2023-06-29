@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin &#8211; CSSL</title>
-	<atom:link href="http://localhost/wordpress/author/admin/feed/?simply_static_page=76387" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ideaboostorg.github.io/cssl_web/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ideaboostorg.github.io/cssl_web</link>
 	<description>The Computer Society Of SriLanka</description>
 	<lastBuildDate>Sun, 19 Mar 2023 09:57:29 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://ideaboostorg.github.io/cssl_web/wp-content/uploads/2023/03/favicon-150x150.png</url>

@@ -2,7 +2,6 @@
   0% {
     box-shadow: 0 0 0 0 rgba(223, 119, 57, 0.6);
   }
-
   100% {
     box-shadow: 0 0 0 10px rgba(223, 119, 57, 0);
   }
@@ -140,7 +139,7 @@ span.wpforms-admin-form-embed-wizard-dot {
   border-bottom-color: white;
 }
 
-.block-editor-page .edit-post-layout .components-notice-list>div {
+.block-editor-page .edit-post-layout .components-notice-list > div {
   padding-left: 50px;
 }
 
@@ -173,7 +172,7 @@ span.wpforms-admin-form-embed-wizard-dot {
   background-repeat: no-repeat;
 }
 
-.block-editor-page.is-fullscreen-mode .edit-post-layout .components-notice-list>div {
+.block-editor-page.is-fullscreen-mode .edit-post-layout .components-notice-list > div {
   padding-left: 125px;
 }
 
