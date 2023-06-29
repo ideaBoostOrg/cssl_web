@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Symfony\Component\HttpClient\Response\CommonResponseTrait&quot; not found in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\vendor\symfony\http-client\Response\AsyncResponse.php</b> on line <b>22</b><br>
