@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Vendor\Psr\Log\LoggerAwareTrait&quot; not found in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\src\Publication\PublicationRepository.php</b> on line <b>22</b><br>

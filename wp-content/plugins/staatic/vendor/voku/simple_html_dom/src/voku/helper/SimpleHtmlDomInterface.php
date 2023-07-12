@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Could not check compatibility between Staatic\Vendor\voku\helper\SimpleHtmlDomInterface::getIterator(): Staatic\Vendor\voku\helper\SimpleHtmlDomNodeInterface and IteratorAggregate::getIterator(): Traversable, because class Staatic\Vendor\voku\helper\SimpleHtmlDomNodeInterface is not available in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\vendor\voku\simple_html_dom\src\voku\helper\SimpleHtmlDomInterface.php</b> on line <b>66</b><br>

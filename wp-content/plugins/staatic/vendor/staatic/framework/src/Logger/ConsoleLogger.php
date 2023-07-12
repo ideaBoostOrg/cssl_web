@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;Staatic\Framework\Logger\LoggerTrait&quot; not found in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\vendor\staatic\framework\src\Logger\ConsoleLogger.php</b> on line <b>9</b><br>
