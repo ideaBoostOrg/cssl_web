@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Staatic\Framework\Logger\LoggerTrait&quot; not found in <b>C:\xampp\htdocs\cssl\wp-content\plugins\staatic\vendor\staatic\framework\src\Logger\StreamLogger.php</b> on line <b>12</b><br>
