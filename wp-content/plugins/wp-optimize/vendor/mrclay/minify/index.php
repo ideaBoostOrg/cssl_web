@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Declaration of Props\Container::has($name) must be compatible with Psr\Container\ContainerInterface::has(string $id): bool in <b>C:\xampp\htdocs\cssl\wp-content\plugins\wp-optimize\vendor\mrclay\props-dic\src\Props\Container.php</b> on line <b>105</b><br>
